@@ -108,3 +108,23 @@
 #check:checked~.sidebar_menu .btn_two i{
     opacity: 1;
 }
+.footer{
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    color: white;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    opacity: 0.8;
+}
+.footer:hover{
+    opacity:1;
+}
+.footer p{
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.footer p strong{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
